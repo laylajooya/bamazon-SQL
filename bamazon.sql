@@ -36,3 +36,5 @@ VALUES
 ("Whatever People Say I Am, That's What I Am Not", "vinyl", 13.98, 60),
 ("Tranquility Base Hotel & Casino", "vinyl", 19.98, 35),
 ("Humbug", "vinyl", 19.98, 25);
+
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'password'
