@@ -1,4 +1,4 @@
-# bAmazon | homework 17
+# bAmazon | homework 12
 
 * bAmazon is a CLI app Amazon-like storefront that uses MySQL.
 
